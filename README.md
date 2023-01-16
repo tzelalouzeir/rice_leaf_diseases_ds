@@ -1,4 +1,4 @@
-# rice_leaf_diseases_ds
+# rice_leaf_diseases_ds 416x416
 
 The dataset includes both train,validation and test images, making it suitable for use in training and evaluating machine learning models for disease diagnosis.
 (tested on YOLOv3 and YOLOv4).
